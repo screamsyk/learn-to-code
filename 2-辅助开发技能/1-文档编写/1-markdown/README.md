@@ -10,11 +10,14 @@
 
 > [为什么不应该使用Markdown来写文档](https://mp.weixin.qq.com/s/IwnLE-rX2wlfCAW8tDSRFg)
 
-## 简介
+## 一、简介
 
-Markdown 有两层含义：
+Markdown 是 2004 年由 Aaron Swartz 和 John Gruber 共同设计的，有两层含义：
 
+```
 1. 一种轻量级标记语言，它允许用纯文本格式（易读、易写）来编写文档。
 
 2. 一种将纯文本转换为 HTML 的工具。
+```
 
+现在提到 Markdown，主要是指轻量级标记语言。
