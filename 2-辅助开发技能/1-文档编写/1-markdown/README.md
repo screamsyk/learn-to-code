@@ -14,6 +14,10 @@
 
 > [如何在公众号中写数学公式](https://mp.weixin.qq.com/s/J2Z6SlMYLjeIqp635DqOXQ)
 
+> [Cmd Markdown 简明语法手册][1]
+
+[1]:https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#cmd-markdown
+
 ## 一、概念
 
 Markdown 是 2004 年由 Aaron Swartz 和 John Gruber 共同设计的，有两层含义：
@@ -257,6 +261,8 @@ Markdown 的扩展语法主要包括：
 `字体`、`脚注`、`表格`、`内联 HTML`、`数学公式`
 
 其他还有扩展如：`emoji 图标`、`流程图`、`序列图`、`甘特图`等，但基本不支持。
+
+具体可参考：[Cmd Markdown 简明语法手册][1]
 
 ### 4.1 字体
 
