@@ -34,7 +34,7 @@ Markdown 是 2004 年由 Aaron Swartz 和 John Gruber 共同设计的，有两�
 
 随着 Markdown 的流行，许多网站（如 GitHub）和编辑器（如 VSCode、Typora）开始支持 Markdown，并有了它们自己的 Markdown 实现和解析工具。这些多样的实现，使 Markdown 有很多衍生版本，扩展了 Markdown 的功能（如表格、脚注、内嵌 HTML 、数学公式等），并且可以解析成 HTML、Word、pdf 等多种格式。
 
-我们把 John Gruber 规定的 Markdown 语法称为 Markdown 基本语法。
+我们把 John Gruber 规定的 Markdown 语法称为 **Markdown 基本语法**。
 
 > 由于没有明确的规范，导致各个 Markdown 实现上，虽然基本语法都兼容，但一些写法上却大不相同，比如：
 > 
@@ -45,7 +45,7 @@ Markdown 是 2004 年由 Aaron Swartz 和 John Gruber 共同设计的，有两�
 > #标题1（不留空格）
 > ```
 
-把其他衍生版本功能所扩展的语法，称为 Markdown 扩展语法。
+把其他衍生版本功能所扩展的语法，称为 **Markdown 扩展语法**。
 
 > 不同衍生版本在一些支持的功能的实现上也不相同，比如 Typora 编辑器支持数学公式，但很多其他的实现却不支持这一扩展语法。
 
