@@ -18,5 +18,5 @@
 
 目前互联网技术文档的格式，普遍采用的是轻量级的纯文本，方便书写和平台移植。如下：
 
-1. [markdown](1-markdown)
-2. [asciidoc](2-asciidoc)
+1. [markdown](1-markdown.md)
+2. [asciidoc](2-asciidoc.md)
