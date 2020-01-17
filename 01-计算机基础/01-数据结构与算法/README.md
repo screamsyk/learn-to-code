@@ -14,7 +14,7 @@
 
 专栏的知识点很全面，而且有专门的理解和实战，值得推荐。
 
-另外有个算法动态可视化网站：[algoanim](http://algoanim.ide.sk/index.php?page=categories);
+另外有将算法可视化动态呈现的网站：[网站1](http://algoanim.ide.sk/index.php?page=categories) 和 [网站2](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ## 目录
 
