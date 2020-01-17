@@ -14,6 +14,8 @@
 
 专栏的知识点很全面，而且有专门的理解和实战，值得推荐。
 
+另外有个算法动态可视化网站：[algoanim](http://algoanim.ide.sk/index.php?page=categories);
+
 ## 目录
 
 > 简介
